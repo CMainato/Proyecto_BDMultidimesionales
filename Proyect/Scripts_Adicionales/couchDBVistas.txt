@@ -1,0 +1,94 @@
+function (doc) {
+  if(doc.text.indexOf("GODofwar") > -1){
+    emit("GOD OF WAR",1);
+  }
+  if(doc.text.indexOf("ShadowoftheColossus") > -1){
+    emit("Shadow of the Colossus",1);
+  }
+  if(doc.text.indexOf("DevilMayCray") > -1){
+    emit("Devil May Cray",1);
+  }
+  if(doc.text.indexOf("SekiroShadowsDieTwice") > -1){
+    emit("Sekiro Shadows Die Twice",1);
+  }
+  if(doc.text.indexOf("SekiroShadowsDieTwice") > -1){
+    emit("Sekiro Shadows Die Twice",1);
+  }
+  if(doc.text.indexOf("DarkSouls") > -1){
+    emit("Dark Souls",1);
+  }
+  if(doc.text.indexOf("LOL") > -1){
+    emit("LOL",1);
+  }
+  if(doc.text.indexOf("DOTA") > -1){
+    emit("DOTA",1);
+  }
+  if(doc.text.indexOf("CSGO") > -1){
+    emit("CSGO",1);
+  }
+  if(doc.text.indexOf("FinalFantasy") > -1){
+    emit("Final Fantasy",1);
+  }
+  if(doc.text.indexOf("ResidentEvil") > -1){
+    emit("Resident Evil",1);
+  }
+  if(doc.text.indexOf("wordofwarcraft") > -1){
+    emit("word of warcraft",1);
+  }
+  if(doc.text.indexOf("fortnite") > -1){
+    emit("fortnite",1);
+  }
+  if(doc.text.indexOf("counterSmashbros") > -1){
+    emit("counter Smashbros",1);
+  }
+  if(doc.text.indexOf("fifa") > -1){
+    emit("fifa",1);
+  }
+  
+  
+  if(doc.text.indexOf("GOD of war") > -1){
+    emit("GOD OF WAR",1);
+  }
+  if(doc.text.indexOf("Shadow of the Colossus") > -1){
+    emit("Shadow of the Colossus",1);
+  }
+  if(doc.text.indexOf("Devil May Cray") > -1){
+    emit("Devil May Cray",1);
+  }
+  if(doc.text.indexOf("Sekiro Shadows Die Twice") > -1){
+    emit("Sekiro Shadows Die Twice",1);
+  }
+  if(doc.text.indexOf("Sekiro Shadows Die Twice") > -1){
+    emit("Sekiro Shadows Die Twice",1);
+  }
+  if(doc.text.indexOf("Dark Souls") > -1){
+    emit("Dark Souls",1);
+  }
+  if(doc.text.indexOf("LOL") > -1){
+    emit("LOL",1);
+  }
+  if(doc.text.indexOf("DOTA") > -1){
+    emit("DOTA",1);
+  }
+  if(doc.text.indexOf("CSGO") > -1){
+    emit("CSGO",1);
+  }
+  if(doc.text.indexOf("Final Fantasy") > -1){
+    emit("Final Fantasy",1);
+  }
+  if(doc.text.indexOf("Resident Evil") > -1){
+    emit("Resident Evil",1);
+  }
+  if(doc.text.indexOf("word of war craft") > -1){
+    emit("word of warcraft",1);
+  }
+  if(doc.text.indexOf("fortnite") > -1){
+    emit("fortnite",1);
+  }
+  if(doc.text.indexOf("counter Smashbros") > -1){
+    emit("counter Smashbros",1);
+  }
+  if(doc.text.indexOf("fifa") > -1){
+    emit("fifa",1);
+  }
+}
